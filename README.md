@@ -23,7 +23,9 @@
         Consider ourselves working for an associate at an investment firm that manages accounts for private clients. Our role requires you to analyse a portfolio of stocks to provide consultation on investment management based on client’s requirement. 
         </span>
 </p>
+
 ## Business Goal :
+
 <a id="goal"></a>
 <h2>   
       <font color = Black >
